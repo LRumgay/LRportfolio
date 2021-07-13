@@ -1,0 +1,29 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+ #hero {
+    height: 65vh;
+    background: linear-gradient( rgb(43, 140, 162), transparent), linear-gradient( -45deg, rgb(117, 67, 30), transparent), linear-gradient( 45deg, rgb(117, 85, 214), transparent), center center / cover no-repeat;
+    background-blend-mode: multiply;
+ }
+
+ .fa-address-card {
+     color: white;
+     padding-right: 10px;
+ }
+
+ .fa-briefcase {
+    color: white;
+    padding-right: 10px;
+ }
+
+ .fa-address-book {
+    color: white;
+    padding-right: 10px;
+ }
+
+ .fa-github {
+    color: white;
+    padding-right: 10px;
+ }

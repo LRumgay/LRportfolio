@@ -27,3 +27,14 @@ body {
     color: white;
     padding-right: 10px;
  }
+
+ .footer {
+    color: white;
+   height: 10vh;
+   background: linear-gradient( rgb(43, 140, 162), transparent), linear-gradient( -45deg, rgb(117, 67, 30), transparent), linear-gradient( 45deg, rgb(117, 85, 214), transparent), center center / cover no-repeat;
+   background-blend-mode: multiply;   
+ }
+
+ .ty {
+    color: white;
+ }

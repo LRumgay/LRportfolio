@@ -4,7 +4,7 @@ body {
 
  #hero {
     height: 65vh;
-    background: linear-gradient( rgb(43, 140, 162), transparent), linear-gradient( -45deg, rgb(117, 67, 30), transparent), linear-gradient( 45deg, rgb(117, 85, 214), transparent), center center / cover no-repeat;
+    background: linear-gradient( rgb(109, 35, 158), transparent), linear-gradient( -45deg, rgb(47, 42, 88), transparent), linear-gradient( 45deg, rgb(73, 60, 110), transparent), center center / cover no-repeat;
     background-blend-mode: multiply;
  }
 
@@ -31,7 +31,7 @@ body {
  .footer {
     color: white;
    height: 10vh;
-   background: linear-gradient( rgb(117, 85, 214), transparent), linear-gradient( -45deg, rgb(43, 140, 162), transparent), linear-gradient( 45deg, rgb(117, 67, 30), transparent), center center / cover no-repeat;
+   background: linear-gradient( rgb(109, 35, 158), transparent), linear-gradient( -45deg, rgb(47, 42, 88), transparent), linear-gradient( 45deg, rgb(73, 60, 110), transparent), center center / cover no-repeat;
    background-blend-mode: multiply;   
  }
 
